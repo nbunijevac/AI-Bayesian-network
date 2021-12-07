@@ -1,2 +1,3 @@
 # AI-Bayesian network
- Variable elimination ,Gibbs sampling; Particle filter
+dz2_1_nb: Variable elimination, Gibbs sampling; 
+dz2_2_nb: Particle filter
